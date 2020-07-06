@@ -2,5 +2,5 @@
 layout: slid
 title:"Welcome to our second slide!"
 ---
-Your text
+Love is a sickness, can i get a witness
 Use the left arrow to go back
